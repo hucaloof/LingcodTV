@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/hucaloof/LingcodTV/releases/download/2.1.12/Shadowrocket_2.1.12.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://img.vim-cn.com/a6/31420ccdcaec15faaaa91ba99a134bf27fa92a.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://img.vim-cn.com/bd/02973103f918da8b48dae87d65e595a90175c7.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
