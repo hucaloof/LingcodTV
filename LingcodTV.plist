@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/hucaloof/LingcodTV/releases/download/3.2.5/MKTV-3.2.5.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://user-images.githubusercontent.com/10459360/48338599-07377c00-e6a1-11e8-9a21-a88bd4649416.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://user-images.githubusercontent.com/10459360/48338622-19191f00-e6a1-11e8-8b21-6aefc2d45c77.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.gz.appslingcodplus</string>
+				<key>bundle-version</key>
+				<string>3.2.5</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Lingcod TV</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
